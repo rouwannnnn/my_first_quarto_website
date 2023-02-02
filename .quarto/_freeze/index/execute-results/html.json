@@ -1,7 +1,7 @@
 {
-  "hash": "762a1f581d3035a68939bbe4b6d7de8b",
+  "hash": "a515ab3391afedb7637760f1c469fd21",
   "result": {
-    "markdown": "---\ntitle: \"my_first_quarto_website\"\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"my_first_quarto_website\"\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n\n修改完yml 来index render，网页就会更新",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
